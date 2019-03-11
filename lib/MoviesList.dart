@@ -11,7 +11,7 @@ class MovieApp extends StatelessWidget {
       theme: ThemeData(primarySwatch: Colors.red),
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Moves'),
+          title: Text('Movies'),
         ),
         body: MovieListPage(),
       ),
